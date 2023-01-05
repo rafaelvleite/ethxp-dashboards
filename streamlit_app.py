@@ -4,10 +4,9 @@ from PIL import Image
 
 load_css()
 
-st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?logo=github&style=social)](https://gitHub.com/dataprofessor/links)")
 
 col1, col2, col3 = st.columns(3)
-col2.image(Image.open('dp.png'))
+col2.image(Image.open('LOGO ETH - PERFIL V2.png'))
 
 st.header('ETHXP Dashboards')
 
@@ -21,3 +20,4 @@ st_button('', 'https://data-professor.medium.com/', 'Deribit Historic Data for E
 st_button('', 'https://twitter.com/thedataprof/', 'Deribit Historic Data for ETH Options: Monthly Contracts', icon_size)
 st_button('', 'https://www.linkedin.com/in/chanin-nantasenamat/', 'Deribit Historic Data for ETH Options: Quarterly Contracts', icon_size)
 st_button('', 'https://sendfox.com/dataprofessor/', 'Deribit Historic Data for ETH Options: Semesterly Contracts', icon_size)
+
