@@ -4,13 +4,20 @@ from PIL import Image
 
 load_css()
 
-
+mystyle = '''
+    <style>
+        p {
+            text-align: justify;
+        }
+    </style>
+    '''
+    
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('LOGO ETH - PERFIL V2.png'))
 
 st.header('ETHXP Dashboards')
 
-st.info('Relevant dashboards for better insights')
+st.info(mystyle, 'Relevant dashboards for better insights')
 
 icon_size = 20
 
