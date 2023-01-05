@@ -14,10 +14,10 @@ st.subheader('Relevant dashboards for better insights')
 
 icon_size = 20
 
-st_button('', 'https://youtube.com/dataprofessor', 'Deribit Historic Data for ETH Options: 24 Hours Contracts', icon_size)
-st_button('', 'https://youtube.com/codingprofessor', 'Deribit Historic Data for ETH Options: 48 Hours Contracts', icon_size)
-st_button('', 'https://data-professor.medium.com/', 'Deribit Historic Data for ETH Options: Friday Contracts', icon_size)
-st_button('', 'https://twitter.com/thedataprof/', 'Deribit Historic Data for ETH Options: Monthly Contracts', icon_size)
-st_button('', 'https://www.linkedin.com/in/chanin-nantasenamat/', 'Deribit Historic Data for ETH Options: Quarterly Contracts', icon_size)
-st_button('', 'https://sendfox.com/dataprofessor/', 'Deribit Historic Data for ETH Options: Semesterly Contracts', icon_size)
+st_button('', 'https://rafaelvleite-ethxp-streamlit-dashes-eth-dashboard-24hs-gekdez.streamlit.app/', 'Deribit Historic Data for ETH Options: 24 Hours Contracts', icon_size)
+st_button('', 'https://rafaelvleite-ethxp-streamlit-dashes-eth-dashboard-48hs-wwwsl7.streamlit.app/', 'Deribit Historic Data for ETH Options: 48 Hours Contracts', icon_size)
+#st_button('', 'https://data-professor.medium.com/', 'Deribit Historic Data for ETH Options: Friday Contracts', icon_size)
+st_button('', 'https://rafaelvleite-ethxp-streamlit-dashe-eth-dashboard-monthly-6yspoz.streamlit.app/', 'Deribit Historic Data for ETH Options: Monthly Contracts', icon_size)
+#st_button('', 'https://www.linkedin.com/in/chanin-nantasenamat/', 'Deribit Historic Data for ETH Options: Quarterly Contracts', icon_size)
+#st_button('', 'https://sendfox.com/dataprofessor/', 'Deribit Historic Data for ETH Options: Semesterly Contracts', icon_size)
 
