@@ -14,6 +14,8 @@ st.subheader('Relevant dashboards for better insights')
 
 icon_size = 20
 
+st_button('', 'https://rafaelvleite-options-volatility-options-streamlit-oubv79.streamlit.app/?embedded=true', 'Volatilidade das Opções de ETH', icon_size)
+st_button('', 'https://rafaelvleite-ichimoku-backtest-stream-ichimoku-streamlit-i2cjli.streamlit.app/?embedded=true', 'Backtests de Ichimoku', icon_size)
 st_button('', 'https://rafaelvleite-ethxp-streamlit-dashes-eth-dashboard-24hs-gekdez.streamlit.app/?embedded=true', 'Deribit ETH Options 24 Hours', icon_size)
 st_button('', 'https://rafaelvleite-ethxp-streamlit-dashes-eth-dashboard-48hs-wwwsl7.streamlit.app/?embedded=true', 'Deribit ETH Options 48 Hours', icon_size)
 st_button('', 'https://rafaelvleite-ethxp-streamlit-dashes-eth-dashboard-weekly-2cts9h.streamlit.app/?embedded=true', 'Deribit ETH Options Weekly', icon_size)
