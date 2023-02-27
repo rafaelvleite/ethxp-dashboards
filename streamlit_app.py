@@ -14,6 +14,7 @@ st.subheader('Relevant dashboards for better insights')
 
 icon_size = 20
 
+st_button('', 'https://rafaelvleite-best-parameters-s-best-parameters-streamlit-10rt2h.streamlit.app/?embedded=true', 'Melhores Parâmetros de Ichimoku com Margem em USD', icon_size)
 st_button('', 'https://rafaelvleite-ichimoku-backtest-stream-ichimoku-streamlit-i2cjli.streamlit.app/?embedded=true', 'Backtests de Ichimoku com Margem em USD', icon_size)
 st_button('', 'https://rafaelvleite-ichimoku-backtest-eth-ma-ichimoku-streamlit-osx8fi.streamlit.app//?embedded=true', 'Backtests de Ichimoku com Margem em ETH/BTC', icon_size)
 st_button('', 'https://rafaelvleite-options-volatility-options-streamlit-oubv79.streamlit.app/?embedded=true', 'Volatilidade das Opções de ETH', icon_size)
